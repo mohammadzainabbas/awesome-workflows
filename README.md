@@ -1,6 +1,5 @@
 ### 👨🏻‍💻 Awesome Workflows ✨
 
----
 
 ## Contents
 
@@ -28,6 +27,10 @@
   - [Localization](#localization)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
+
+---
+
+<a id="github-action-intro" />
 
 ## What is a GitHub Action ?
 
@@ -107,6 +110,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
+
+---
 
 ## Community Resources
 
@@ -539,6 +544,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
+---
+
 ## Tutorials
 
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
@@ -554,5 +561,5 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information. You can find another awesome list [here](https://github.com/sdras/awesome-actions) ✨
+> Please don't hesitate to make a PR if you have more resources to share. You can find another awesome list [here](https://github.com/sdras/awesome-actions) ✨
 
