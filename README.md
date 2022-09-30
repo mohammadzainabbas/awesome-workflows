@@ -28,7 +28,7 @@
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
----
+#
 
 <a id="github-action-intro" />
 
@@ -40,7 +40,7 @@ You can find out more about _GitHub Actions_ [here](https://github.com/features/
 
 > This repository serves as a curated list of awesome things related to GitHub Actions.
 
----
+#
 
 ## Official Resources
 
@@ -111,7 +111,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
 
----
+#
 
 ## Community Resources
 
@@ -544,7 +544,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
----
+#
 
 ## Tutorials
 
